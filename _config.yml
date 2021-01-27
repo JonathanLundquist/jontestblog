@@ -21,7 +21,7 @@
 title: Goodnight Trail
 email: christina@goodnighttrail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Goodnight Trail blog site.
+  Goodnight trail blog site. A collection of stories from a couple, a van, and a dream.
 baseurl: "/jontestblog" # the subpath of your site, e.g. /blog
 url: "https://jonathanlundquist.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
